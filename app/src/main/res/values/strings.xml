@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DMIA Live Attendance app</string>
+    <string name="dmia_pkl_attendance">DMIA PKL Attendance</string>
 </resources>
